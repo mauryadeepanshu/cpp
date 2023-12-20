@@ -11,14 +11,10 @@ using namespace std;
    
    while (i <= x) {
    sum += i;
+    }   
    
-   }
-   
-   cout << "Sum of the first " <<  x  << " number is " << sum;
-   
-    
-
-
-return 0;
+  
+  cout << "Sum of the first " <<  x  << " number is " << sum;
+   return 0;
   }
  
