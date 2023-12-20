@@ -11,7 +11,7 @@ using namespace std;
    
    while (i <= x) {
    sum += i;
-   i++;
+   
    }
    
    cout << "Sum of the first " <<  x  << " number is " << sum;
