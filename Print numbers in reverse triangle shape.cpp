@@ -8,8 +8,8 @@ using namespace std;
   cin >>x;
   
   for (i = 1; i <= x; i++) {
-  for (j = 1; j <= x-i+1; j++) {
-     cout << x;
+  for (j = 1; j <= x-i+1; j++) {  // Use x(user input) x-i+1 to print anything in reverse
+     cout << j;
   }
    cout << endl;
   }
